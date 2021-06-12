@@ -125,11 +125,5 @@
         flex-direction: row;
         flex-wrap: wrap
        }  
-      }
-    /* Ties 720px pasikeicia sriftas */
-      @media screen and (max-width: 720px) {
-      .html {
-        font-family: 'Oswald', sans-serif;
-    }
+      } 
   }
-    }
